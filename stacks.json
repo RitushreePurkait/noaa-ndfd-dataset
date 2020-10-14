@@ -8,7 +8,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "noaa_ndfd_dataset",
+  "stack_id": "noaa-ndfd-dataset",
   "type": "dataset-s3",
   "categories": [
     "Environment",
