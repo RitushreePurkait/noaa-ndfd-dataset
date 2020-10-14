@@ -19,8 +19,7 @@
     }
   ],
   "buckets": [
-    "noaa-ndfd-pds",
-    "NewNDFDObject"
+    "noaa-ndfd-pds"
   ],
   "meta": {
     "Install time": [
